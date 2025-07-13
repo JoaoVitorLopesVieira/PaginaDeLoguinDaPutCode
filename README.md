@@ -27,7 +27,7 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivoLICENÇA par
 
 
 
-                                                                       O que Aprendi com Este Projeto
+                                                       O que Aprendi com Este Projeto
 
 Estruturação de Páginas Web: Aprendi a criar a estrutura básica de uma página web utilizando HTML, definindo elementos como formulários, botões e campos de entrada.
 
